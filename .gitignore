@@ -78,4 +78,4 @@ data/train/
 data/test/
 data/val/
 models/
-
+temp_dir/
