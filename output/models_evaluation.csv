@@ -1,0 +1,2 @@
+,model,num of layers retrain,accuracy_test,accuracy_train,accuracy_val,img_size,seed,precision_covid,recall_covid,f1_covid,epochs,augmentation
+0,MobileNetV2,54,0.8235294222831726,0.9057904481887817,0.7317658066749573,"(160, 160)",47,0.9222222222222223,0.8556701030927835,0.8877005347593583,24,yes
