@@ -74,6 +74,8 @@ target/
 
 cats_dogs/
 logs/
-
-
+data/train/
+data/test/
+data/val/
+models/
 
