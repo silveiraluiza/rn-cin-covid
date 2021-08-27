@@ -1,7 +1,7 @@
-acuracia-teste,precision-covid-teste,recall-covid-teste,f1-covid-teste,precision-non-covid-teste,recall-non-covid-teste,f1-non-covid-teste
-0.003,0.003,0.002,0.002,0.005,0.009,0.006
-0.005,0.003,0.006,0.004,0.01,0.009,0.008
-0.004,0.003,0.005,0.003,0.008,0.009,0.007
-0.003,0.002,0.003,0.002,0.005,0.005,0.004
-0.001,0,0.001,0.001,0.002,0,0.001
-0.006,0.004,0.006,0.004,0.012,0.012,0.009
+"","acuracia-teste","precision-covid-teste","recall-covid-teste","f1-covid-teste","precision-non-covid-teste","recall-non-covid-teste","f1-non-covid-teste"
+"densenet",0.003,0.003,0.002,0.002,0.005,0.009,0.006
+"densenet_gauss",0.005,0.003,0.006,0.004,0.01,0.009,0.008
+"mobilenet",0.004,0.003,0.005,0.003,0.008,0.009,0.007
+"mobilenet_gauss",0.003,0.002,0.003,0.002,0.005,0.005,0.004
+"vgg16",0.001,0,0.001,0.001,0.002,0,0.001
+"vgg16_gauss",0.006,0.004,0.006,0.004,0.012,0.012,0.009
